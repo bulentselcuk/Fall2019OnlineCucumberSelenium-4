@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
         features="src/test/resources/features",
         dryRun=false,
         strict=false,
-        tags = "@store_manager",
+        tags = "",
 //        tags="@sales_manager or @driver" // for two test
 
 //        tags = "@sales_manager",
